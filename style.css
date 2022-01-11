@@ -1,0 +1,21 @@
+body{
+    background-image: url('/image/anime-background-wallpaper.jpg');
+
+}
+
+.invisible{
+    margin-bottom: 15.7%;
+}
+
+.card-body{
+    background-color: #00001c;
+    color: white;
+}
+
+form{
+    color: white;
+}
+
+.img{
+    background-color: #00001c;
+}

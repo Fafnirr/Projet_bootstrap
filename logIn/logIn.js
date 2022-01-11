@@ -1,9 +1,9 @@
 function myFunction(){
-    const pseudo = document.getElementById('pseudo').value;
+    const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
     let ok = true;
 
-    if (pseudo != "admin" || password != "Admin"){
+    if (username != "admin" || password != "Admin"){
         alert('Identifiant ou Mot de passe incorrect');
         ok = false;
     }
